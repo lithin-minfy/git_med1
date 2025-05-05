@@ -11,7 +11,7 @@ A basic HTML webpage was created and enhanced using two feature branches:
 Both branches modified the same file (index.html) and were merged into the main branch using GitHub Pull Requests. Merge conflicts were intentionally triggered and resolved manually.
 
 ## Conflict Resolution
-When merging the second feature branch, a conflict occurred in the <h1> tag due to both branches modifying it differently. The conflict was resolved by combining the changes in a meaningful way and committing the updated version to the repository.
+When merging the second feature branch, a conflict occurred in the h1 tag due to both branches modifying it differently. The conflict was resolved by combining the changes in a meaningful way and committing the updated version to the repository.
 
 ## Technologies Used
 - HTML
